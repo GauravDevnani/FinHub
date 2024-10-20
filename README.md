@@ -1,6 +1,7 @@
 # 🌟FinHub🌟
 
 🪄***FinHub***: A Central Hub for Financial Activities
+
 FinHub is a ***C++-based Bank Management System*** designed to simulate fundamental banking operations. It provides users with a convenient platform to manage their accounts, perform transactions, and track their financial information.
 
 ### Key Features
